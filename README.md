@@ -21,8 +21,8 @@ Plot the original and filtered image by using matplotlib.pyplot.
 ### Step5
 End the program.
 ```
- DEVELOPED BY : KAMESH R R 
- REG NO: 212223230095
+ DEVELOPED BY : TH KARTHIK KRISHNA 
+ REG NO: 212223240067
 ```
 
 # Program:
